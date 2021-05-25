@@ -1,0 +1,43 @@
+body{
+    padding:0;
+    margin:0;
+}
+.home {
+    background-color:black;
+   
+}
+#education {
+    background-color:black;
+}
+#contact {
+    background-color:black;
+}
+#bn{
+    height: 300px; 
+    width: 300px;
+    border: 15px solid rgb(230, 208, 16);
+    border-radius: 50%;
+    margin-bottom: 160px;
+    margin-top: 160px;
+    
+}
+#ab{
+    border: 5px solid burlywood;
+    border-radius: 10%;
+}
+button a{
+    text-decoration: none;
+    font-weight: bold; 
+    margin-bottom: 20px;
+}
+.edu-circle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: cornsilk;
+    
+}
+.bi{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
